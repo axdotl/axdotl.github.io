@@ -4,7 +4,7 @@ weight: 10
 header_menu: true
 ---
 
-Die komplette Satzung kann hier als [PDF](/downloads/Satzung-v1.1.pdf) heruntergeladen werden.
+Die komplette Satzung finden Sie im [Download-Bereich](#downloads).
 
 Im folgenden ein Auszug aus der Satzung.
 
