@@ -4,7 +4,7 @@ weight: 15
 header_menu: true
 ---
 
-Um unsere Arbeit mit einer Spende zu unterstützen, brauchen Sie nur den gewünschten Betrag auf folgendes Konto überweisen:
+Um unseren Verein mit einer Spende zu unterstützen, brauchen Sie nur den gewünschten Betrag auf folgendes Konto überweisen:
 
 |   |   |
 |---|---|
