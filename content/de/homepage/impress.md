@@ -10,5 +10,11 @@ Taucherwaldstr. 18a
 
 E-Mail: info@dfv-ut.de
 
+**Registernummer**  
+VR 14857 (Amtsgericht Dresden)
+
+**Umsatzsteuer-Identifikations­nummer**  
+204/140/00283 (Finanzamt Bautzen)
+
 **Verantwortlicher gemäß §10 Abs.3 MDStV**  
 Axel Köhler (Vorstandsvorsitzender)
