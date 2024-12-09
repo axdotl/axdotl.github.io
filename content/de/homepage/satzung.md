@@ -1,16 +1,11 @@
 ---
-title: "Satzung"
+title: "Verein"
 weight: 10
 header_menu: true
 ---
 
-Die komplette Satzung finden Sie im [Download-Bereich](#downloads).
+Der Verein wurde im August 2024 gegründet und hat seinen Sitz in Uhyst am Taucher.
 
-Im folgenden ein Auszug aus der Satzung.
-
-#### § 2 Vereinszweck
-
-Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 Zweck des Vereins ist:
 
 - die Förderung der Ortsverschönerung in den Ortslagen Uhyst am Taucher sowie Taschendorf
@@ -28,3 +23,5 @@ Der Verein verwirklicht seine Zwecke insbesondere durch:
 - Öffentlichkeitsarbeit zur Gewinnung von Mitgliedern für die Feuerwehr
 - Stärkung und Verbesserung der Einsatzkraft und Tätigkeiten der Ortsfeuerwehr Uhyst am Taucher über die durch gemeindliche Mittel gegebene Grundausstattung hinaus.
 - Organisation und Durchführung von Veranstaltungen (bspw. Maibaumstellen, Weihnachtsmarkt, Dorffest, etc.)
+
+Weitere Details finden Sie in der Satzung, welche im [Download-Bereich](#downloads) zur Verfügung steht.
